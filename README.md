@@ -12,7 +12,7 @@ Para la creación de direcciones bitcoin tenenos 2 opciones:
 El sistema crea la clave PRIVADA, y la clave WIF (Para importar en nuestra billetera) junto con la dirección bitcoin asociada a ellas.
 Una vez creada la dirección, o poniendo nosotros mismos una dirección válida en el campo ADDR, podemos saber su saldo actual y el saldo acumulado de dicha dirección.
 
-Para que funcione correctamente el programa se necesitan las librerias tkinter y bitcoin.
+Para que funcione correctamente el programa se necesitan las librerias tkinter, bitcoin y requests.
 
 Agradecimientos a la estupenda libreria creada por vbuterin:
 
