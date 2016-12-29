@@ -1,6 +1,8 @@
 # multi-btc-address-create
-Creación de direcciones bitcoin y comprobar su saldo y total recibido en entorno gráfico
+Creación de direcciones bitcoin y comprobar su saldo y total recibido en entorno gráfico.
+
 Programa creado en Python 3.4, de uso libre.
+
 Para la creación de direcciones bitcoin tenenos 2 opciones:
 
 1) Entrar una palabra o frase de la longitud que queramos(Cuanto más larga sea, más segura será la dirección creada)
