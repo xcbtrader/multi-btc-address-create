@@ -4,6 +4,7 @@ Programa creado en Python 3.4, de uso libre.
 Para la creación de direcciones bitcoin tenenos 2 opciones:
 
 1) Entrar una palabra o frase de la longitud que queramos(Cuanto más larga sea, más segura será la dirección creada)
+
 2) Crear una dirección de forma aleatoria (Mucho cuidado con esta opción ya que la aleatoriedad del sistema puede no siempre ser correcta).
 
 El sistema crea la clave PRIVADA, y la clave WIF (Para importar en nuestra billetera) junto con la dirección bitcoin asociada a ellas.
